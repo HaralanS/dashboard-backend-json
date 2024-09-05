@@ -49,6 +49,126 @@
       "wage": 2500.00,
       "seniority": "Pleno",
       "department": "Desenvolvimento"
+    },
+        {
+      "id": 6,
+      "name": "Lara Croft",
+      "phone": "4784575439",
+      "email": "tombraider@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Senior",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 7,
+      "name": "James Bond",
+      "phone": "4784575439",
+      "email": "james007bond@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Pleno",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 8,
+      "name": "Sherlock Holmes",
+      "phone": "4784575439",
+      "email": "omelhordetetive@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Pleno",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 9,
+      "name": "Valter Branco",
+      "phone": "4784575439",
+      "email": "chutandoobalde@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Pleno",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 10,
+      "name": "Joao neve",
+      "phone": "4784575439",
+      "email": "reilegitimo@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Junior",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 11,
+      "name": "Sarah Connor",
+      "phone": "4784575439",
+      "email": "exterminadoradopresente@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Pleno",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 12,
+      "name": "Ellen Ripley",
+      "phone": "4784575439",
+      "email": "asetimapassageira@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Pleno",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 13,
+      "name": "Carlos Leite",
+      "phone": "4784575439",
+      "email": "campeao11x@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Senior",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 14,
+      "name": "Luke Skywalker",
+      "phone": "4784575439",
+      "email": "maytheforcebewithyou@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Junior",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 15,
+      "name": "Axel Folley",
+      "phone": "4784575439",
+      "email": "crazyfrog@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Pleno",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 16,
+      "name": "Bruce Wayne",
+      "phone": "4784575439",
+      "email": "akabatman@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Senior",
+      "department": "Desenvolvimento"
+    },
+        {
+      "id": 17,
+      "name": "Peter Parker",
+      "phone": "4784575439",
+      "email": "amigaodavizinhaca@email.com",
+      "country": "Brasil",
+      "wage": 2500.00,
+      "seniority": "Pleno",
+      "department": "Desenvolvimento"
     }
   ],
   "customers": [
